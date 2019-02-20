@@ -2,8 +2,8 @@ var fs = require('fs');
 var mysql = require('mysql');
 var Sequelize = require('sequelize');
 
-var sequelize = new Sequelize('jessem', 'jessem', '#1q2w3e4r', {
-    host: '35.226.119.103',
+var sequelize = new Sequelize('jessem', 'cesar', '1234', {
+    host: '35.238.229.92',
     dialect: 'mysql',
     port: '3306',
     pool: {
