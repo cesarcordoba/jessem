@@ -51,7 +51,7 @@ app.controller('proyectosCtrl', function($scope, $rootScope, $http, $mdDialog, m
 
 		async imagenes(){
 			await Imagen.obtenerDeproyectos(this.id)
-			.then(res => this.imagenes = res.data)
+			.then(res =>this.imagenes = res.data)
 			.then(() => $scope.$digest())
 		}
 

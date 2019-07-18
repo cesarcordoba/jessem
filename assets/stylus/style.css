@@ -19,7 +19,7 @@
   src: url("../fonts/Cabin-Bold.ttf");
 }
 .centro {
-  min-height: calc(100vh - 150px);
+  height: 100vh;
 }
 .layout-row > div {
   max-height: inherit;

@@ -27,7 +27,7 @@ md-grid-list md-grid-tile {
   width: 96%;
 }
 .md-virtual-repeat-container {
-  height: 30%;
+  height: 126px;
 }
 .dropify-wrapper.touch-fallback .dropify-clear {
   bottom: 8px !important;
