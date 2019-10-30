@@ -31,7 +31,7 @@
     "passport": "^0.3.2",
     "passport-facebook": "^2.1.1",
     "passport-local": "^1.0.0",
-    "sequelize": "^4.0.0",
+    "sequelize": "^5.15.1",
     "serve-favicon": "^2.4.3",
     "tedious": "^2.6.4",
     "webpack": "^2.2.1"
