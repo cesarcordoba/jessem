@@ -22,7 +22,7 @@
     "jimp": "^0.2.28",
     "jquery-browserify": "^1.8.1",
     "jquery-mousewheel": "^3.1.13",
-    "jsonwebtoken": "^7.4.3",
+    "jsonwebtoken": "^9.0.0",
     "less": "^2.7.2",
     "less-middleware": "^2.2.0",
     "morgan": "^1.8.2",
